@@ -1,0 +1,10 @@
+h1, a {
+    text-align: center;
+}
+
+a {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: block;
+    color: black;
+    text-decoration: none;
+}
